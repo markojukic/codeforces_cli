@@ -1,0 +1,8 @@
+/*
+!.gitignore
+!README.md
+!Makefile
+!config.json
+!/cmd
+!/pkg
+!/examples
