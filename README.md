@@ -1,7 +1,7 @@
 # Codeforces CLI
 This is a command-line tool for testing and submitting solutions to programming problems on Codeforces.
 
-![demo](demo.svg)
+![demo](examples/demo.svg)
 
 ## Features:
 * Supports time and memory limits
